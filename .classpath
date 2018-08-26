@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/java-client-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MR/Desktop/jar files/okio-1.14.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
